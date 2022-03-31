@@ -1,0 +1,14 @@
+mx\uv\t4is\saludos\SaludosEndPoint.class
+https\t4is_uv_mx\saludos\ObjectFactory.class
+https\t4is_uv_mx\saludos\SaludarResponse.class
+https\t4is_uv_mx\saludos\BuscarSaludosResponse$ModificarSaludoRequest.class
+mx\uv\t4is\saludos\SaludosApplication.class
+mx\uv\t4is\saludos\Saludo.class
+https\t4is_uv_mx\saludos\BuscarSaludosResponse$ModificarSaludoResponse.class
+https\t4is_uv_mx\saludos\BuscarSaludosResponse$Saludos.class
+https\t4is_uv_mx\saludos\BuscarSaludosResponse.class
+mx\uv\t4is\saludos\SaludosConf.class
+https\t4is_uv_mx\saludos\SaludarRequest.class
+https\t4is_uv_mx\saludos\package-info.class
+https\t4is_uv_mx\saludos\BuscarSaludosResponse$BorrarSaludoResponse.class
+https\t4is_uv_mx\saludos\BuscarSaludosResponse$BorrarSaludoRequest.class
