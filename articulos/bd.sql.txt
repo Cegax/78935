@@ -1,6 +1,0 @@
-CREATE DATABASE IF NOT EXISTS articulos;
-
-CREATE USER IF NOT EXISTS 'Usuario'@'%' IDENTIFIED BY '12345';
-GRANT ALL PRIVILEGES ON articulos.* TO 'Usuario'@'%';
-FLUSH PRIVILEGES;
-use articulos;
